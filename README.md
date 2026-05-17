@@ -1,5 +1,5 @@
 🌟 About Me
-📚 Statistics Student at Gazi University, currently in my 2nd year.
+📚 Statistics Student at Gazi University, currently in my 3rd year.
 🎓 Aspiring academic researcher, passionate about uncovering insights through data and sharing knowledge.
 💻 Exploring the world of data science, currently enrolled in Google's Data Science course.
 🧮 Deeply interested in mathematical statistics and algorithms.
