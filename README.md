@@ -1,9 +1,11 @@
 # Hi there, I'm Orçun Çakar 👋
 
-[![Website](https://img.shields.io/badge/Website-orcuncakar.com-0A66C2?style=flat&logo=Google-Chrome&logoColor=white)](https://orcuncakar.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Orçun_Çakar-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/orcuncakaar)
-[![Email](https://img.shields.io/badge/Email-orcuncakar48@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:orcuncakar48@gmail.com)
-[![X](https://img.shields.io/badge/X-@orcuncakaar-000000?style=flat&logo=x&logoColor=white)](https://x.com/orcuncakaar)
+<p align="left">
+  <a href="https://orcuncakar.com" target="_blank"><img src="https://img.shields.io/badge/Website-orcuncakar.com-0A66C2?style=flat&logo=Google-Chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://linkedin.com/in/orcuncakaar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Orçun_Çakar-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:orcuncakar48@gmail.com"><img src="https://img.shields.io/badge/Email-orcuncakar48%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://x.com/orcuncakaar" target="_blank"><img src="https://img.shields.io/badge/X-@orcuncakaar-000000?style=flat&logo=x&logoColor=white" alt="X" /></a>
+</p>
 
 ---
 
