@@ -28,14 +28,6 @@
 
 ---
 
-### 📊 GitHub Activity & Stats
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=orcuncakaar&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=orcuncakaar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
-</p>
----
-
 ### 📌 Pinned Projects Highlights
 * 📈 **Stock-Following-App:** Financial data tracking and analytical automation using Python.
 * 🌐 **Data & ML Web Integrations:** Developing intuitive frontend interfaces to communicate model outputs effectively.
