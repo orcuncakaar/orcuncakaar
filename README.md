@@ -34,7 +34,7 @@
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **Hantavirus Data Science & Modeling** | Global epidemiological risk analysis, environmental correlation, and predictive modeling for infection factors. | `Python`, `Pandas`, `Scikit-Learn`, `EDA` | [Case Study](https://orcuncakar.com) • [Repo](https://github.com/orcuncakaar/hantavirus-data-science-project) |
+| **Hantavirus Data Science & Modeling** | Global epidemiological risk analysis, environmental correlation, and predictive modeling for infection factors. | `Python`, `Pandas`, `Scikit-Learn`, `EDA` | [Case Study](https://orcuncakar.com/post/hantavirus-analysis) • [Repo](https://github.com/orcuncakaar/hantavirus-data-science-project) |
 | **NASA Space Daily** | Interactive desktop & web explorer consuming NASA APOD API with audio-visual space ambience. | `Python`, `Node.js`, `Express`, `SQLite` | [Repo](https://github.com/orcuncakaar/NASA-Space-Daily) |
 
 ---
