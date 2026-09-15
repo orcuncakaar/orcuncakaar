@@ -30,9 +30,12 @@
 
 ---
 
-### 📌 Pinned Projects Highlights
-* 📈 **Stock-Following-App:** Financial data tracking and analytical automation using Python.
-* 🌐 **Data & ML Web Integrations:** Developing intuitive frontend interfaces to communicate model outputs effectively.
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **Hantavirus Data Science & Modeling** | Global epidemiological risk analysis, environmental correlation, and predictive modeling for infection factors. | `Python`, `Pandas`, `Scikit-Learn`, `EDA` | [Case Study](https://orcuncakar.com) • [Repo](https://github.com/orcuncakaar/hantavirus-data-science-project) |
+| **NASA Space Daily** | Interactive desktop & web explorer consuming NASA APOD API with audio-visual space ambience. | `Python`, `Node.js`, `Express`, `SQLite` | [Repo](https://github.com/orcuncakaar/NASA-Space-Daily) |
 
 ---
 *Feel free to reach out for collaborations, research ideas, or discussions on data science!*
