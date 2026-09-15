@@ -1,7 +1,7 @@
 # Hi there, I'm Orçun Çakar 👋
 
 [![Website](https://img.shields.io/badge/Website-orcuncakar.com-0A66C2?style=flat&logo=Google-Chrome&logoColor=white)](https://orcuncakar.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Orçun_Çakar-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/orcuncakar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Orçun_Çakar-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/orcuncakaar)
 [![Email](https://img.shields.io/badge/Email-orcuncakar48@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:orcuncakar48@gmail.com)
 [![X](https://img.shields.io/badge/X-@orcuncakaar-000000?style=flat&logo=x&logoColor=white)](https://x.com/orcuncakaar)
 
