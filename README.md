@@ -1,15 +1,45 @@
-🌟 About Me
-📚 Statistics Student at Gazi University, currently in my 3rd year.
-🎓 Aspiring academic researcher, passionate about uncovering insights through data and sharing knowledge.
-💻 Exploring the world of data science, currently enrolled in Google's Data Science course.
-🧮 Deeply interested in mathematical statistics and algorithms.
-📊 Experienced in foreign trade, with a 40-day mandatory internship under my belt.
-🔬 Interested in combining statistical models with real-world applications.
+# Hi there, I'm Orçun Çakar 👋
 
-Programming Languages: Python, R, and SQL.
-Data Science & Visualization: Pandas, NumPy, Matplotlib, Seaborn.
-Soft Skills: Analytical thinking, adaptability, and a passion for continuous learning.
+[![Website](https://img.shields.io/badge/Website-orcuncakar.com-0A66C2?style=flat&logo=Google-Chrome&logoColor=white)](https://orcuncakar.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Orçun_Çakar-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/orcuncakar)
+[![Email](https://img.shields.io/badge/Email-orcuncakar48@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:orcuncakar48@gmail.com)
+[![X](https://img.shields.io/badge/X-@orcuncakaar-000000?style=flat&logo=x&logoColor=white)](https://x.com/orcuncakaar)
 
-Feel free to reach out for collaboration, academic discussions, or just a friendly chat. Together, let’s explore the infinite possibilities of data and innovation!
+---
 
+### 🎓 About Me
+- 📊 **Statistics Senior** at Gazi University (GPA: 3.78/4.00)
+- 💼 **Data Science Intern** at **Luminoris** — Working on relational databases with SQL, developing ML models in Python, and building web-based analytical interfaces
+- 🚀 **Planning Team Leader** at **Google Developer Student Clubs (GDSC)** & **Board Member** at Gazi University Statistics Community
+- 🔬 Aspiring academic researcher passionate about statistical modeling, optimization, and time-series forecasting
 
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages & Databases:**  
+`Python` `R` `SQL` `HTML5` `CSS3`
+
+**Data Science & Machine Learning:**  
+`Pandas` `NumPy` `Scikit-Learn` `SPSS` `Excel` `Matplotlib` `Seaborn`
+
+**Areas of Focus:**  
+`Statistical Decision Theory` `Predictive Modeling` `Data Preprocessing` `Relational Database Optimization`
+
+---
+
+### 📊 GitHub Activity & Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=orcuncakaar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orcuncakaar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+### 📌 Pinned Projects Highlights
+* 📈 **Stock-Following-App:** Financial data tracking and analytical automation using Python.
+* 🌐 **Data & ML Web Integrations:** Developing intuitive frontend interfaces to communicate model outputs effectively.
+
+---
+*Feel free to reach out for collaborations, research ideas, or discussions on data science!*
